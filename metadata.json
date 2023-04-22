@@ -1,0 +1,24 @@
+{
+  "name": "DIAI Kaprekar Art",
+  "symbol": "DKA",
+  "description": "DIAI Kaprekar Art",
+  "image": "https://github.com/diaikaprekar/DKA/raw/main/logo.png",
+  "external_url": "https://github.com/diaikaprekar/DKA/raw/main/logo.png",
+  "collection": {
+    "name": "DIAI Kaprekar Art",
+    "family": "DKA"
+  },
+  "properties": {
+    "category": "image",
+    "creators": {
+      "address": "EM4JGxrjL6WYLudUBkmkyed9wN71rASP7NWAECXbxGaw",
+      "share": 100
+    },
+    "files": [
+      {
+        "uri": "https://github.com/diaikaprekar/DKA/raw/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
